@@ -1,6 +1,6 @@
 #!/bin/bash
-REPORT1="https://datastudio.google.com/open/0ByR7dvRY5HcuQ1VfMDc4MVV5TEE"
-REPORT2="https://datastudio.google.com/open/0ByR7dvRY5HcuQjdTel9pU05SNkk"
+REPORT1="https://datastudio.google.com/open/1pWeaaU0j44oLMw3QWb9cmn6WHl8uig41"
+REPORT2="https://datastudio.google.com/open/1LC8XmxQva_8J2IbOsiRiAxljEPIOXFMb"
 SLEEPTIME=300
 BROWSERARGS="--incognito --noerrdialogs --kiosk"
 
